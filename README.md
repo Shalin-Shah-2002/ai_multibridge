@@ -2,6 +2,9 @@
 
 [![pub package](https://img.shields.io/pub/v/ai_multibridge.svg)](https://pub.dev/packages/ai_multibridge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Shalin-Shah-2002/ai_multibridge.svg?style=social&label=Star)](https://github.com/Shalin-Shah-2002/ai_multibridge)
+
+**📦 Available on pub.dev**: [ai_multibridge](https://pub.dev/packages/ai_multibridge)
 
 A Flutter package that provides a unified interface to multiple AI providers with automatic fallback support. Built by **Shalin Shah** to make AI integration simple, secure, and reliable for developers of all levels.
 
@@ -47,14 +50,22 @@ AI Multi-Bridge provides:
 
 ## 🚀 Quick Start
 
-### 1. Add the Package
+### 1. Install the Package
 
+**Option A: Using Flutter CLI (Recommended)**
+```bash
+flutter pub add ai_multibridge
+```
+
+**Option B: Manual Installation**
 Add `ai_multibridge` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  ai_multibridge: ^1.0.0
+  ai_multibridge: ^0.0.1
 ```
+
+**📦 Package Page**: [pub.dev/packages/ai_multibridge](https://pub.dev/packages/ai_multibridge)
 
 ### 2. Basic Usage
 
@@ -347,9 +358,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. **Check the [Issues](https://github.com/your-username/ai_multibridge/issues)** page
+1. **Check the [Issues](https://github.com/Shalin-Shah-2002/ai_multibridge/issues)** page
 2. **Create a new issue** with detailed information
 3. **Contact Shalin** at 2002shalin@gmail.com
+
+### 📦 Package Information
+
+- **📚 GitHub Repository**: [github.com/Shalin-Shah-2002/ai_multibridge](https://github.com/Shalin-Shah-2002/ai_multibridge)
+- **📦 pub.dev Package**: [pub.dev/packages/ai_multibridge](https://pub.dev/packages/ai_multibridge)
+- **📄 License**: MIT License
+- **🔄 Maintenance**: Actively maintained by Shalin Shah
+- **🐛 Bug Reports**: Please use GitHub Issues
+- **💡 Feature Requests**: Welcome via GitHub Issues
 
 ## 🎯 Roadmap
 
