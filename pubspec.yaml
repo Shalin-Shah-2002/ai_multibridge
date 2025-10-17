@@ -1,6 +1,8 @@
 name: ai_multibridge
-description: "A new Flutter package project."
+description: "A Flutter package that provides a unified interface to multiple AI providers with automatic fallback support."
 version: 0.0.1
+repository: https://github.com/Shalin-Shah-2002/ai_multibridge
+homepage: https://github.com/Shalin-Shah-2002/ai_multibridge
 
 environment:
   sdk: ^3.9.2

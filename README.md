@@ -99,7 +99,7 @@ void main() async {
    - Choose "Create API key in new project" for beginners
 
 3. **Copy Your Key**
-   - Your API key will look like: `AIzaSyBpxCG8uwNR-kF-L-Gzl3X-J7e1tNdoIyw`
+   - Your API key will look like: `AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
    - **Important**: Save this key securely - you won't be able to see it again!
 
 4. **Free Tier Limits**
@@ -195,7 +195,7 @@ void main() async {
 ```dart
 // DON'T hardcode API keys in your code
 final config = AIMultiBridgeConfig(
-  geminiKey: 'AIzaSyBpxCG8uwNR-kF-L-Gzl3X-J7e1tNdoIyw', // EXPOSED!
+    geminiKey: 'YOUR_GEMINI_API_KEY_HERE', // EXPOSED!
 );
 ```
 
