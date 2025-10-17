@@ -11,8 +11,8 @@ A Flutter package that provides a unified interface to multiple AI providers wit
 
 **Connect with Shalin:**
 - 📧 Email: 2002shalin@gmail.com
-- 🌐 GitHub: [Shalin-dev](https://github.com/Shalin-dev)
-- 💼 LinkedIn: [Shalin Shah](https://linkedin.com/in/shalin-shah)
+- 🌐 GitHub: [Shalin-Shah-2002](https://github.com/Shalin-Shah-2002)
+- 💼 LinkedIn: [Shalin Shah](https://www.linkedin.com/in/shalin-shah0705/)
 
 ## 🤔 Why I Built This
 
